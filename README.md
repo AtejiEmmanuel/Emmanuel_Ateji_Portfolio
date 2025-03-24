@@ -7,7 +7,9 @@
 
 <h2>📄 Certifications</h2>
 
-- [Google Cybersecurity Professional Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecurity Professional Certificate](https://coursera.org/verify/professional-cert/FIMX4JYL0OPN)
+- [Information Security Management Systems (ISMS) Auditor/Lead Auditor Training Course (BS ISO/IEC
+ 27001:2022)](https://acrobat.adobe.com/id/urn:aaid:sc:EU:306d49cd-45b8-4b49-b301-5e521211b8c0)
 
 <h2>📺 Popular YouTube Videos</h2>
 
