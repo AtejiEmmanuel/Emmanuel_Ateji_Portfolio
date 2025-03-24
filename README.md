@@ -14,7 +14,7 @@
 - [Hacktify Cyber Security & Penetration Testing Internship](https://acrobat.adobe.com/id/urn:aaid:sc:EU:387bb9de-c8a5-4106-81ed-939fddd463c9)
 - [Google AI Essentials](https://coursera.org/verify/R6XKO9S5JBKE)
 - [Fundamentals of Network Communication](https://www.coursera.org/account/accomplishments/verify/NKSZ7NVTZYW3)
-- 
+- [Introduction to IT & Cybersecurity](https://acrobat.adobe.com/id/urn:aaid:sc:EU:c3874e6f-9759-4dfa-9560-2a4debee4e9f)
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Tuturial: Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
