@@ -1,4 +1,5 @@
-<h1>Hi, I'm Emmanuel! </h1>
+<h1>Hi, I'm Emmanuel Ateji! </h1>
+<h1>Welcome to my GitHub Profile!👌 </h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
@@ -12,7 +13,7 @@
  27001:2022)](https://acrobat.adobe.com/id/urn:aaid:sc:EU:306d49cd-45b8-4b49-b301-5e521211b8c0)
 - [Hacktify Cyber Security & Penetration Testing Internship](https://acrobat.adobe.com/id/urn:aaid:sc:EU:387bb9de-c8a5-4106-81ed-939fddd463c9)
 - [Google AI Essentials](https://coursera.org/verify/R6XKO9S5JBKE)
-- [Fundamentals of Network Communication](coursera.org/verify/NKSZ7NVTZYW3)
+- [Fundamentals of Network Communication]()
 - 
 <h2>📺 Popular YouTube Videos</h2>
 
