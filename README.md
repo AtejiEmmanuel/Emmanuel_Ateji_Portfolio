@@ -11,7 +11,7 @@
 - [Google Cybersecurity Professional Certificate](https://coursera.org/verify/professional-cert/FIMX4JYL0OPN)
 - [Information Security Management Systems (ISMS) Auditor/Lead Auditor Training Course (BS ISO/IEC
  27001:2022)](https://acrobat.adobe.com/id/urn:aaid:sc:EU:306d49cd-45b8-4b49-b301-5e521211b8c0)
-- [Hacktify Cyber Security & Penetration Testing Internship](https://acrobat.adobe.com/id/urn:aaid:sc:EU:387bb9de-c8a5-4106-81ed-939fddd463c9)
+- [Hacktify Cyber Security & Penetration Testing Internship](https://hacktify.thinkific.com/certificates/hdjrvflghz)
 - [Google AI Essentials](https://coursera.org/verify/R6XKO9S5JBKE)
 - [Fundamentals of Network Communication](https://www.coursera.org/account/accomplishments/verify/NKSZ7NVTZYW3)
 - [Introduction to IT & Cybersecurity](https://acrobat.adobe.com/id/urn:aaid:sc:EU:c3874e6f-9759-4dfa-9560-2a4debee4e9f)
