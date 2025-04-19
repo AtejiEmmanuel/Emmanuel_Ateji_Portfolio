@@ -1,6 +1,27 @@
 <h1>Hi, I'm Emmanuel Ateji! </h1>
 <h1>Welcome to my GitHub Cybersecurity Portfolio!👌 </h1>
 
+<h2>🛠️ Skills Summary</h2>
+
+**💻 Languages:**  
+Python | Bash | SQL | JavaScript | HTML
+
+**📚 Frameworks & Standards:**  
+OWASP Top 10 | MITRE ATT&CK | NIST Cybersecurity Framework | ISO 27001 | ISO 19011
+
+**🧰 Tools & Technologies:**  
+Nmap | Wireshark | Burp Suite | Metasploit | Tenable Nessus | OpenVAS (GreenBone) | John the Ripper | Kali Linux | Dirbuster | OWASP ZAP | Nikto | Rapid7 Nexpose | Qualys | Trivy | Splunk
+
+**🖥️ Platforms:**  
+Windows | Linux | Docker | Kubernetes | Apache | PHP | SQLite
+
+**🔐 Security Concepts:**  
+Penetration Testing | Vulnerability Assessment | Network Security | Cloud Security | Cryptography | Incident Response | Threat Intelligence | Risk Management
+
+**🤹 Soft Skills:**  
+Problem-Solving | Critical Thinking | Team Collaboration | Communication | Technical Report Writing | Attention to Detail
+
+
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
   - [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
