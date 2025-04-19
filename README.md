@@ -5,6 +5,7 @@
 
   - [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ISO 27001-Based Security Audit and Assessment](https://github.com/AtejiEmmanuel/ISO-27001-Based-Security-Audit-and-Assessment)
 
 <h2>📄 Certifications</h2>
 
