@@ -1,5 +1,9 @@
 <h1>Hi, I'm Emmanuel Ateji! </h1>
+
 <h1>Welcome to my GitHub Cybersecurity Portfolio!👌 </h1>
+
+<h2>🙋‍♂️ About Me</h2>
+I'm Emmanuel Ateji, a cybersecurity enthusiast passionate about protecting digital assets and solving real-world security challenges. With hands-on experience in penetration testing, security audits, and tools like Metasploit, Burp Suite, and Wireshark, I thrive on breaking and securing systems. I'm continuously learning through internships, certifications, and self-driven projects. My goal is to contribute to building a safer, more secure digital world — one exploit at a time.
 
 <h2>🛠️ Skills Summary</h2>
 
