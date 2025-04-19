@@ -1,5 +1,5 @@
 <h1>Hi, I'm Emmanuel Ateji! </h1>
-<h1>Welcome to my GitHub Profile!👌 </h1>
+<h1>Welcome to my GitHub Cybersecurity Portfolio!👌 </h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
