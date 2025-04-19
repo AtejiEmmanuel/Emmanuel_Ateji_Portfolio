@@ -41,6 +41,7 @@ Problem-Solving | Critical Thinking | Team Collaboration | Communication | Techn
 - [Google AI Essentials](https://coursera.org/verify/R6XKO9S5JBKE)
 - [Fundamentals of Network Communication](https://www.coursera.org/account/accomplishments/verify/NKSZ7NVTZYW3)
 - [Introduction to IT & Cybersecurity](https://acrobat.adobe.com/id/urn:aaid:sc:EU:c3874e6f-9759-4dfa-9560-2a4debee4e9f)
+- [Diploma in Leadership Development](https://acrobat.adobe.com/id/urn:aaid:sc:EU:c0f33fc4-a666-4aab-9929-74698e0450e7)
 
 <h2>🎓 Cybersecurity Internships & Trainings</h2>
 
