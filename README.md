@@ -14,7 +14,7 @@ Python | Bash | SQL | JavaScript | HTML
 OWASP Top 10 | MITRE ATT&CK | NIST Cybersecurity Framework | ISO 27001 | ISO 19011
 
 **🧰 Tools & Technologies:**  
-Nmap | Wireshark | Burp Suite | Metasploit | Tenable Nessus | OpenVAS (GreenBone) | John the Ripper | Kali Linux | Dirbuster | OWASP ZAP | Nikto | Rapid7 Nexpose | Qualys | Trivy | Splunk
+Nmap | Wireshark | Burp Suite | Metasploit | Tenable Nessus | OpenVAS (GreenBone) | John the Ripper | Kali Linux | Dirbuster | OWASP ZAP | Nikto | Rapid7 Nexpose | Qualys | Trivy | Splunk | Git (CLI) | Scapy | Flask
 
 **🖥️ Platforms:**  
 Windows | Linux | Docker | Kubernetes | Apache | PHP | SQLite
