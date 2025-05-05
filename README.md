@@ -47,7 +47,7 @@ Problem-Solving | Critical Thinking | Team Collaboration | Communication | Techn
 
 - [Cyber Allegiance Internship](https://github.com/AtejiEmmanuel/Cyber-Allegiance-Internship.git)
 - Hacktify Cyber Security & Penetration Testing Internship
-- Hack Secure Blue Teaming Internship
+- [Hack Secure Blue Teaming Internship](https://github.com/AtejiEmmanuel/Hack-Secure-Internship)
 - [Prodigy Cyber Security Internship](https://github.com/AtejiEmmanuel/PRODIGY_CS_Tasks.git)
 - [CodeAlpha Cyber Security Internship](https://github.com/AtejiEmmanuel/CodeAlpha-Cyber-Security-Internship.git)  
 
